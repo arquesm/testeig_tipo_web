@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'aïna';
+    src: url('Alcoiana01-Black.otf)') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+h1,h2,h3,h4,h5,h6, .slide-text{
+    font-family: 'aïna';
+}
