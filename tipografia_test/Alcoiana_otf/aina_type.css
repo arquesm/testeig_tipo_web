@@ -1,0 +1,196 @@
+@font-face {
+    font-family: 'aïna_hairline';
+    src: url('Alcoiana_otf/Alcoiana01-Hairline.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+    font-family: 'aïna_thin';
+    src: url('Alcoiana_otf/Alcoiana01-Thin.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+    font-family: 'aïna_light';
+    src: url('Alcoiana_otf/Alcoiana01-Light.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+    font-family: 'aïna_extralight';
+    src: url('Alcoiana_otf/Alcoiana01-Extralight.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+    font-family: 'aïna_regular';
+    src: url('Alcoiana_otf/Alcoiana01-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+    font-family: 'aïna_medium';
+    src: url('Alcoiana_otf/Alcoiana01-Medium.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_semibold';
+	src: url('Alcoiana_otf/Alcoiana01-Semibold.otf') format('opentype'); 
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_bold';
+	src: url('Alcoiana_otf/Alcoiana01-Bold.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_black';
+	src: url('Alcoiana_otf/Alcoiana01-Black.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+/* CONDENSED */
+@font-face {
+	font-family: 'aïna_condensedhairline';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedHairline.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedlight';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedLight.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedextralight';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedExtralight.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedethin';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedThin.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedregular';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedRegular.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedmedium';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedMedium.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedsemibold';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedSemibold.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedbold';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedBold.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_condensedblack';
+	src: url('Alcoiana_otf/Alcoiana01-CondensedBlack.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+/* EXTENDED */
+@font-face {
+	font-family: 'aïna_extendedhairline';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedHairline.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedthin';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedThin.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedlight';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedLight.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedextralight';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedExtralight.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedregular';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedRegular.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedmedium';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedMedium.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedblack';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedBlack.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedsemibold';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedSemibold.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+@font-face {
+	font-family: 'aïna_extendedbold';
+	src: url('Alcoiana_otf/Alcoiana01-ExtendedBold.otf') format('opentype');
+	font-weight: 900;
+    font-style: normal;
+	font-feature-settings: "ss01";
+}
+
+h1,h2,h3,h4,h5,h6, p, .slide-text{
+    font-family: 'aina';
+	font-feature-settings: "ss01";
+}
